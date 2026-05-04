@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Models/CreateCustomerRequest.cs
+/Models/CreateProductRequest.cs
+/Models/Customer.cs
+/Models/Product.cs
+/Models/UpdateCustomerRequest.cs
+/Models/UpdateProductRequest.cs
+/Models/CreateCustomerRequest.cs
+/Models/CreateProductRequest.cs
+/Models/Customer.cs
+/Models/Product.cs
+/Models/UpdateCustomerRequest.cs
+/Models/UpdateProductRequest.cs
+/.vs/APICRUD/FileContentIndex/0b340f51-2ec3-4ee9-a48f-36d0ad5cb473.vsidx
+/.vs/APICRUD/FileContentIndex/463af818-a6db-48de-a5f1-ec7b6b5d534a.vsidx
+/.vs/APICRUD/FileContentIndex/4abd70b1-30cf-4259-a2f5-98a20d685177.vsidx
+/.vs/APICRUD/FileContentIndex/bbc2bf7e-c5b2-4099-9ed6-d467ffd6fe06.vsidx
+/.vs/APICRUD/FileContentIndex/bbe8bbf7-4c85-4792-ae8f-8c04dbb0ff44.vsidx
+/.vs/APICRUD/FileContentIndex/fa219e42-a671-4240-9d6e-8bfa6f7b098b.vsidx
